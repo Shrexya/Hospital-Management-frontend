@@ -1,0 +1,16 @@
+.head{
+    font-size: 2rem;
+    color:#1b75be ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+}
+.pic{
+    background: url('/src/components/epilepsy.jpg') no-repeat center center/cover;
+    display: flex;
+    flex-wrap: wrap;
+    height: 50vh;
+    padding-top: 20px;
+}
+.report{
+    padding-top: 20px;
+}

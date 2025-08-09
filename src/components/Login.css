@@ -1,0 +1,27 @@
+/* App.css */
+
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f8f9fa;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .mt-4 {
+    margin-top: 20px;
+  }
+  
+  .mr-2 {
+    margin-right: 10px;
+  }
+  
+  .w-100 {
+    width: 100%;
+  }
+  

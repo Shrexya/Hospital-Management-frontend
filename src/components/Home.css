@@ -1,0 +1,108 @@
+/* Navbar Customization */
+.custom-navbar {
+  background-color: #2c3e50; /* Dark blue shade */
+  padding: 10px 20px;
+}
+
+.custom-navbar .navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+  color: #ecf0f1; /* Light grey color */
+}
+
+.custom-navbar .nav-link {
+  font-size: 18px;
+  margin-right: 15px;
+  color: #bdc3c7; /* Light grey color */
+  transition: color 0.3s ease;
+}
+
+.custom-navbar .nav-link:hover {
+  color: #1abc9c; /* Green accent on hover */
+}
+
+.custom-navbar .navbar-toggler {
+  border: none;
+  background-color: #1abc9c; /* Green toggle button */
+}
+
+.custom-navbar .navbar-toggler-icon {
+  color: #ecf0f1;
+}
+.home-content {
+  padding: 40px 20px;
+  background-color: #f9f9f9;
+}
+
+.home-content .form-control {
+  max-width: 300px;
+  margin-right: 10px;
+}
+
+.carousel-item img {
+  height: 800px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.row {
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.card {
+  min-width: 250px;
+  max-width: 280px;
+  flex: 1 1 20%;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card-title {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.card-text {
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.button-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  transition: background-color 0.3s ease;
+}
+
+.button-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+ button.box {
+  padding: 0.75rem 1.5rem;
+  margin: 0.5rem;
+  border: 0.5rem solid #0056b3;
+  border-radius: 30px;
+  background-color: #60aafa;
+  color: #ffffff;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  height: 200px;
+  width: 300px;
+}
+
+button:hover {
+  background-color: #7dbbfd;
+  transform: translateY(-2px);
+}
+
+
