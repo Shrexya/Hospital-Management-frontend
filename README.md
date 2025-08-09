@@ -18,8 +18,23 @@ package.json   # Project dependencies and scripts
 ## 🔗 Related Repositories
 - Backend: [Hospital Management Backend](https://github.com/Shrexya/Hospital-Management-backend)
 
-## 📸 Screenshots
 
+## Screenshots
+
+### Home Page
+![Home](assets/home.png)
+
+### Service Page
+![Service](assets/service.png)
+
+### Dashboard
+![Dashboard](assets/dashboard.png)
+
+### Library
+![Library](assets/library.png)
+
+### Disease
+![Disease](assets/disease.png)
 
 ---
 
